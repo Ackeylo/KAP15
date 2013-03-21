@@ -78,3 +78,4 @@ public class GlassKon {
       }//end while
     }//end main
  }//end class
+//tjena
